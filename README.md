@@ -1,0 +1,1 @@
+This website is a practice on Jquery featuring the Pokemon Gengar. 
